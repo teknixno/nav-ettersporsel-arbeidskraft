@@ -1,7 +1,7 @@
 <?php
 namespace Teknix\NAV;
 
-require_once('./NAV.class.php');
+require_once('./Bedriftsundersokelse.class.php');
 ?>
 
 <style>
